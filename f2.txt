@@ -2,3 +2,4 @@ Hello from f2
 Adding exra line
 hello from main/main again  branch 
 hello from  test/another-conflict branch 
+git fetch
