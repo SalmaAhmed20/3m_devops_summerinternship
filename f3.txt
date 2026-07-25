@@ -1,1 +1,2 @@
-Hello from file 3 
+Hello from file 3
+test squash merge  
