@@ -1,2 +1,2 @@
 Hello from file 3
-test squash merge  
+test squash merge (from test/conflict branch)  
