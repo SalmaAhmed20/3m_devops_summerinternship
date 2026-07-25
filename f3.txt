@@ -3,3 +3,4 @@ test squash merge (from test/conflict branch)
  test revert with commit id 
  hello from remote repo 
  add hello from main 
+ hello from precommit 
