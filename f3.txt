@@ -2,3 +2,4 @@ Hello from file 3
 test squash merge (from test/conflict branch)  
  test revert with commit id 
  hello from remote repo 
+ add hello from main 
