@@ -1,3 +1,4 @@
 Hello Dummy data
 2nd Line
+test
 Line in f1 to test reset (conflicts from branch)
